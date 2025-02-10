@@ -51,6 +51,7 @@ With over 8 years of entrepreneurial and corporate experience, I am now transiti
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" alt="thunder client" width="40" height="40"/></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Productivity Tools:</h3>
